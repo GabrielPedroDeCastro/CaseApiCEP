@@ -45,8 +45,3 @@ GET http://localhost:8080/enderecos/01001000
 - Os campos `ibge`, `gia`, `ddd` e `siafi` presentes na resposta do ViaCEP não são repassados pelo BFF.
 - O campo `logradouro` é convertido para **lowercase** antes de ser retornado.
 
-## .gitignore
-O projeto já inclui um `.gitignore` com entradas básicas para Java/Maven.
-
-## Autor
-Desenvolvido por você — sinta-se à vontade para personalizar o README com seu nome e instruções adicionais.
