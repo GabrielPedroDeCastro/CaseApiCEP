@@ -1,4 +1,4 @@
-# Case Técnico - Consulta de CEP (ViaCEP) - Versão Português
+# Case Técnico - Consulta de CEP (ViaCEP)
 
 Este repositório contém o **BFF em Java + Spring Boot** que consome a API pública [ViaCEP](https://viacep.com.br/), remove campos desnecessários (IBGE, GIA, DDD e Siafi) e retorna o **logradouro em lowercase**.
 
